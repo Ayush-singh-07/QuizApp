@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+.App{
+    margin-top: 15%;
+    display: flex;
+    justify-content: center;
+}
+.myhead{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 4px transparent;
+    background-color: rgb(91, 235, 86);
+    color: white;
+}
+
+.options{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.ques{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
